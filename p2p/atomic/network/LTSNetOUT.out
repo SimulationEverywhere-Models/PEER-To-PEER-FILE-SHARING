@@ -1,0 +1,11 @@
+00:00:32:020 out_connect 10203
+00:00:33:020 out_connect 10201
+00:00:35:020 route_out 70111
+00:00:35:030 route_out 70311
+00:00:37:020 out_disconnect 102
+00:00:38:020 out_connect 10306
+00:00:39:020 out_connect 10206
+00:01:09:020 route_out 60222
+00:01:09:030 route_out 60322
+00:01:36:020 out_disconnect 302
+00:01:36:030 out_disconnect 306
